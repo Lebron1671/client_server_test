@@ -1,0 +1,119 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="7">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="hover" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="83">
+            <item index="0" class="java.lang.String" itemvalue="pytest-rerunfailures" />
+            <item index="1" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="2" class="java.lang.String" itemvalue="Brotli" />
+            <item index="3" class="java.lang.String" itemvalue="h11" />
+            <item index="4" class="java.lang.String" itemvalue="py" />
+            <item index="5" class="java.lang.String" itemvalue="pycparser" />
+            <item index="6" class="java.lang.String" itemvalue="markdown-it-py" />
+            <item index="7" class="java.lang.String" itemvalue="trio" />
+            <item index="8" class="java.lang.String" itemvalue="filelock" />
+            <item index="9" class="java.lang.String" itemvalue="Pygments" />
+            <item index="10" class="java.lang.String" itemvalue="certifi" />
+            <item index="11" class="java.lang.String" itemvalue="soupsieve" />
+            <item index="12" class="java.lang.String" itemvalue="pyparsing" />
+            <item index="13" class="java.lang.String" itemvalue="jsonschema" />
+            <item index="14" class="java.lang.String" itemvalue="beautifulsoup4" />
+            <item index="15" class="java.lang.String" itemvalue="pytest-metadata" />
+            <item index="16" class="java.lang.String" itemvalue="pytest-ordering" />
+            <item index="17" class="java.lang.String" itemvalue="iniconfig" />
+            <item index="18" class="java.lang.String" itemvalue="pynose" />
+            <item index="19" class="java.lang.String" itemvalue="seleniumbase" />
+            <item index="20" class="java.lang.String" itemvalue="cryptography" />
+            <item index="21" class="java.lang.String" itemvalue="loguru" />
+            <item index="22" class="java.lang.String" itemvalue="SecretStorage" />
+            <item index="23" class="java.lang.String" itemvalue="click" />
+            <item index="24" class="java.lang.String" itemvalue="wsproto" />
+            <item index="25" class="java.lang.String" itemvalue="attrs" />
+            <item index="26" class="java.lang.String" itemvalue="execnet" />
+            <item index="27" class="java.lang.String" itemvalue="platformdirs" />
+            <item index="28" class="java.lang.String" itemvalue="PySocks" />
+            <item index="29" class="java.lang.String" itemvalue="cssselect" />
+            <item index="30" class="java.lang.String" itemvalue="charset-normalizer" />
+            <item index="31" class="java.lang.String" itemvalue="pytest-html" />
+            <item index="32" class="java.lang.String" itemvalue="sbvirtualdisplay" />
+            <item index="33" class="java.lang.String" itemvalue="async-generator" />
+            <item index="34" class="java.lang.String" itemvalue="idna" />
+            <item index="35" class="java.lang.String" itemvalue="tabcompleter" />
+            <item index="36" class="java.lang.String" itemvalue="undetected-chromedriver" />
+            <item index="37" class="java.lang.String" itemvalue="trio-websocket" />
+            <item index="38" class="java.lang.String" itemvalue="more-itertools" />
+            <item index="39" class="java.lang.String" itemvalue="pluggy" />
+            <item index="40" class="java.lang.String" itemvalue="cffi" />
+            <item index="41" class="java.lang.String" itemvalue="h2" />
+            <item index="42" class="java.lang.String" itemvalue="pytest-xdist" />
+            <item index="43" class="java.lang.String" itemvalue="pyasn1" />
+            <item index="44" class="java.lang.String" itemvalue="requests" />
+            <item index="45" class="java.lang.String" itemvalue="importlib-metadata" />
+            <item index="46" class="java.lang.String" itemvalue="jeepney" />
+            <item index="47" class="java.lang.String" itemvalue="sniffio" />
+            <item index="48" class="java.lang.String" itemvalue="pyrsistent" />
+            <item index="49" class="java.lang.String" itemvalue="pytest-forked" />
+            <item index="50" class="java.lang.String" itemvalue="behave" />
+            <item index="51" class="java.lang.String" itemvalue="exceptiongroup" />
+            <item index="52" class="java.lang.String" itemvalue="selenium" />
+            <item index="53" class="java.lang.String" itemvalue="notifiers" />
+            <item index="54" class="java.lang.String" itemvalue="parameterized" />
+            <item index="55" class="java.lang.String" itemvalue="pyOpenSSL" />
+            <item index="56" class="java.lang.String" itemvalue="zipp" />
+            <item index="57" class="java.lang.String" itemvalue="mdurl" />
+            <item index="58" class="java.lang.String" itemvalue="parse-type" />
+            <item index="59" class="java.lang.String" itemvalue="tomli" />
+            <item index="60" class="java.lang.String" itemvalue="urllib3" />
+            <item index="61" class="java.lang.String" itemvalue="outcome" />
+            <item index="62" class="java.lang.String" itemvalue="websockets" />
+            <item index="63" class="java.lang.String" itemvalue="blinker" />
+            <item index="64" class="java.lang.String" itemvalue="pyotp" />
+            <item index="65" class="java.lang.String" itemvalue="kaitaistruct" />
+            <item index="66" class="java.lang.String" itemvalue="jaraco.classes" />
+            <item index="67" class="java.lang.String" itemvalue="hyperframe" />
+            <item index="68" class="java.lang.String" itemvalue="six" />
+            <item index="69" class="java.lang.String" itemvalue="pytest" />
+            <item index="70" class="java.lang.String" itemvalue="rich" />
+            <item index="71" class="java.lang.String" itemvalue="packaging" />
+            <item index="72" class="java.lang.String" itemvalue="parse" />
+            <item index="73" class="java.lang.String" itemvalue="hpack" />
+            <item index="74" class="java.lang.String" itemvalue="zstandard" />
+            <item index="75" class="java.lang.String" itemvalue="sortedcontainers" />
+            <item index="76" class="java.lang.String" itemvalue="chardet" />
+            <item index="77" class="java.lang.String" itemvalue="tqdm" />
+            <item index="78" class="java.lang.String" itemvalue="colorama" />
+            <item index="79" class="java.lang.String" itemvalue="fasteners" />
+            <item index="80" class="java.lang.String" itemvalue="pdbp" />
+            <item index="81" class="java.lang.String" itemvalue="keyring" />
+            <item index="82" class="java.lang.String" itemvalue="requests-toolbelt" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="int.isdigit" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
