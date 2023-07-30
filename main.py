@@ -65,7 +65,7 @@ async def test_rows(rows_count):
     print(f"Время работы кода для {rows_count} строк данных: {execution_time:.6f} секунд ")
 
 def main():
-    asyncio.run(test_rows(1_000_000))
+    asyncio.run(test_rows(10_000_000))
 
 if __name__ == '__main__':
     main()
